@@ -40,3 +40,17 @@
 2016-10-13 15:18:01,420 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nicolas\Documents\School\ProgExpJava\Oefeningen\04_Testing_of_Multi-threaded\src\main\resources
 2016-10-13 15:18:01,421 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-10-13 15:18:01,422 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nicolas\Documents\School\ProgExpJava\Oefeningen\04_Testing_of_Multi-threaded\src\test\resources
+2016-10-20 14:19:11,447 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2016-10-20 14:21:40,841 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Nicolas\Documents\School\ProgExpJava\Oefeningen\05_GarbageCollection\pom.xml
+2016-10-20 14:21:42,237 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: be:05_GarbageCollection:0.0.1-SNAPSHOT @ C:\Users\Nicolas\Documents\School\ProgExpJava\Oefeningen\05_GarbageCollection\pom.xml.
+2016-10-20 14:21:42,603 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05_GarbageCollection/src/main/java
+2016-10-20 14:21:42,609 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05_GarbageCollection/src/test/java
+2016-10-20 14:21:42,667 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-10-20 14:21:42,981 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-20 14:21:42,982 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nicolas\Documents\School\ProgExpJava\Oefeningen\05_GarbageCollection\src\main\resources
+2016-10-20 14:21:42,985 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-20 14:21:42,985 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nicolas\Documents\School\ProgExpJava\Oefeningen\05_GarbageCollection\src\test\resources
+2016-10-20 14:22:20,982 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-20 14:22:20,982 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nicolas\Documents\School\ProgExpJava\Oefeningen\05_GarbageCollection\src\main\resources
+2016-10-20 14:22:20,985 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-20 14:22:20,986 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nicolas\Documents\School\ProgExpJava\Oefeningen\05_GarbageCollection\src\test\resources

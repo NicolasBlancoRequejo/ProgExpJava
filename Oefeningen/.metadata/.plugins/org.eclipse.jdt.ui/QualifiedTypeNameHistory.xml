@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
 <fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
+<fullyQualifiedTypeName name="javax.xml.soap.Text"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Text"/>
 </qualifiedTypeNameHistroy>
